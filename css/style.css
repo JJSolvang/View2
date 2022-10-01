@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkslategray;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#italics {
+    font-style: italic;
+}
+
+.Column-1 {
+    width: 25%;
+    float: left;
+    padding: 3px;
+    background-color: lightsteelblue;
+    border-style: solid;
+}
+
+.Column-1 img {
+    max-width: 50%;
+    height: auto;
+
+    border-style: solid;
+}
+
+.Column-2 {
+    width: 75%;
+    float: left;
+    padding: 3px;
+    background-color: beige;
+    border-style: solid;
+}
