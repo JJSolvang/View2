@@ -108,3 +108,7 @@ h1 {
 #e {
     display: inline;
 }
+
+#message {
+    padding: 3px;
+}
